@@ -24,5 +24,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
+Link do Site.
+https://hardcore-goldberg-017487.netlify.app/
 
 [⬆ Voltar ao topo](#Yoga)<br>
